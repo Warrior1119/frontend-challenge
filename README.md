@@ -6,8 +6,11 @@ Use the wireframe image as a starting point to build a page with Property cards 
 https://talent.ender.com/wireframe.png
 
 notesAboutFetching: "When fetching data, you must include 'token' in the request body."
+
 propertiesApiUrl: "https://talent.ender.com/fe-challenge/properties"
+
 propertyApiUrl: "https://talent.ender.com/fe-challenge/properties/[PROPERTY ID]/leases"
+
 token: "dde70fd6-b600-43cd-b1d9-33250337b31a"
 
 
