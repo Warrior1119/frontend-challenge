@@ -1,0 +1,18 @@
+.Card {
+  width: 100%;
+  border: 2px solid gray;
+  /* padding: 12px; */
+}
+.name {
+  border-bottom: 2px solid gray;
+  padding: 12px 12px 50px 12px;
+}
+.container {
+  padding: 12px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+}
